@@ -1,0 +1,155 @@
+/* 
+  Localizable.strings
+  Restuarant
+
+  Created by Tianyu Ren on 04/11/16.
+  Copyright (c) 2016 Tianyu Ren. All rights reserved.
+*/
+//Home Page
+//////////////////////////////////////////////////////////
+
+//
+
+"Home_title"="title.png";
+
+//Search TextField
+"Search TextField" = "Search by Zipcode , Name ,  Food";
+
+//Menupage
+"Menu_Home"="Home";
+"Menu_Categories"="City";
+"Menu_Favourites"="Friends";
+"Menu_Special Offers"="Food Story";
+"Menu_About Us"="About Us";
+"Menu_Social Sharing"="Social Sharing";
+"Menu_Terms&Conditions"="Terms & Conditions";
+"Menu_Profile"="Profile";
+"Menu_Remove Ads"="Remove Ads";
+
+//Dialog profile
+"Dialog_updateprofile"="UPDATE PROFILE";
+"Dialog_createprofile"="CREATE PROFILE";
+"Dialog_submit"="Submit";
+"Dialog_cancel"="Cancel";
+
+// Add distance in Cell
+"distance"="Miles";
+"Load_More"="Load More";
+
+//Dialog Update Profile
+"Name"="NAME";
+"E_mail"="MAIL ID";
+"Txt_Name"="Enter Your Name";
+"Txt_E_mail"="Enter Your Mail";
+//Social Button
+"Social Title"="Tell Your Friends About Food for Friends";
+"Social Cancel"="Cancel";
+//In AppPurchase
+"AppPurchase Title"="Purchase Full Version";
+"AppPurchase Des"="If you have already purchased %@ for %0.2f, then Restore otherwise Purchase.";
+"AppPurchase Restore"="Restore";
+"AppPurchase Purchase"="Purchase";
+"AppPurchase Cancel"="Cancel";
+
+//Warning Alert [ internet Connection ]
+"Warning Alert Title"="Warning";
+"Warning Alert SubTitle"="No-Internet connection";
+"Warning Alert closeButtonTitle"="Ok";
+
+//Error Alert [Data Not Found]
+"Error Alert Title"="Error";
+"Error Alert SubTitle"="Data Not-Found, Please try Again!";
+"Error Alert closeButtonTitle"="Ok";
+
+//User Created Alert
+"UserCreated Alert Title"="Successfully";
+"UserCreated Alert SubTitle"="User Created Successfully";
+"UserCreated Alert closeButtonTitle"="Done";
+
+
+//User Updated Alert
+"UserUpdated Alert Title"="Successfully";
+"UserUpdated Alert SubTitle"="User details are Update";
+"UserUpdated Alert closeButtonTitle"="Done";
+
+//Social Alert [WhatsApp]
+"WhatsApp Alert Title"="WhatsApp not installed.";
+"WhatsApp Alert SubTitle"="Your device has no WhatsApp installed.";
+"WhatsApp Alert closeButtonTitle"="OK";
+
+
+//Restuarant Detail Page
+"Total Review"="Total Review :";
+"Detail_AVAILABLE AT"="AVAILABLE AT";
+"Detail_TIMING"="TIMING";
+
+//book table page
+//Lable
+"Name"="NAME";
+"Mail Id"="MAIL ID";
+"Phone Number"="PHONE NUMBER";
+"Date"="DATE";
+"Time"="TIME";
+"Person"="NUMBER OF PERSON";
+"Txtcom"="Comments !!!!";
+
+
+//Offer page
+"Offer_Title"="Special Offers";
+
+//Category page
+"Category_Title"="Categories";
+
+//Favourite page
+"Favourite_Title"="Favourites";
+
+//Map page
+"Map_Title"="Map";
+
+//Book page
+"Book_Title"="Book The Table";
+"Book_Booknow"="Book NOW";
+
+//Terms&Conditions page
+"Terms&Conditions_Title"="Terms & Conditions";
+
+//About us Page
+"Aboutus_title"="About Us";
+
+//Alert [By mail || By Message ]
+"Book Alert Button1" = "By Message";
+"Book Alert Button2" = "By Mail";
+"Book Alert Title"="Get Alert";
+"Book Alert closeButtonTitle"="Cancel";
+
+//Message Alert
+"Message Alert Title"="Error";
+"Message Alert SubTitle"="Your device doesn't support SMS!";
+"Message Alert closeButtonTitle"="OK";
+
+//Textfield
+"Enter Your Name"="Enter Your Name";
+"Enter Your Mail id"="Enter Your Mail id";
+"Phone no"="+99-9999999999";
+
+//Open Date & Time Picker Title
+"DatePicker Title"="Choose Date";
+"TimePicker Title"="Choose Time";
+"Picker Cancel" = "Cancel";
+"Picker Done" = "Done";
+
+//Review Page Dialog
+////////////////////////////////////////
+
+"TxtReview"="Enter Review";
+"TxtComment"="Enter Review";
+
+"Review_title"="Review";
+"Review_yourexprience"="YOUR EXPRIENCE";
+"Review_ok"="Ok";
+
+//Review Submit Alert
+"ReviewSubmit Alert Title"="Successfully";
+"ReviewSubmit Alert SubTitle"="Successfully Review Submited";
+"ReviewSubmit Alert closeButtonTitle"="Done";
+

@@ -1,0 +1,153 @@
+/* 
+  Localizable.strings
+  Restuarant
+
+  Created by Redixbit on 04/11/15.
+  Copyright (c) 2015 Redixbit. All rights reserved.
+*/
+//Home
+"Home_title"="titlefrench.png";
+
+//Search TextField
+"Search TextField"="Rechercher par Nom, Ville";
+
+//Menupage
+"Menu_Home"="Accueil";
+"Menu_Categories"="Catégories";
+"Menu_Favourites"="Favoris";
+"Menu_Special Offers"="Offres spéciales";
+"Menu_About Us"="Qui Sommes Nous";
+"Menu_Social Sharing"="Réseaux sociaux";
+"Menu_Terms&Conditions"="Conditions";
+"Menu_Profile"="Profil";
+"Menu_Remove Ads"="Supprimer une pub";
+
+//Dialog profile
+"Dialog_updateprofile"="Mettre à jour le profil";
+"Dialog_createprofile"="Créez un profil";
+"Dialog_submit"="Envoyer";
+"Dialog_cancel"="Annuler";
+
+
+//Offer page
+"Offer_Title"="Offres spéciales";
+
+//Category page
+"Category_Title"="Catégories";
+
+//Favourite page
+"Favourite_Title"="Favoris";
+
+//Map page
+"Map_Title"="plan";
+
+//Book page
+"Book_Title"="Le livre Table";
+"Book_Booknow"="Reserve maintenant";
+
+// Add distance in Cell
+"distance"="Km";
+"Load_More"="Load More";
+
+//Terms&Conditions page
+"Terms&Conditions_Title"="Conditions Générales d'Utilisation";
+
+//About us Page
+"Aboutus_title"="Qui Sommes Nous";
+
+//Dialog Update Profile
+"Name"="NOM";
+"E_mail"="Identifiant";
+"Txt_Name"="Votre Nom";
+"Txt_E_mail"="Votre Mail";
+
+//Social Button
+"Social Title"="Invitez vos amis sur Maliresto";
+"Social Cancel"="Annuler";
+//In AppPurchase
+"AppPurchase Title"="Acheter la version complète";
+"AppPurchase Des"="Si vous avez déjà acheté% @ de% 0.2f, puis restaurer contraire Achetez.";
+"AppPurchase Restore"="Restaurer";
+"AppPurchase Purchase"="Achat";
+"AppPurchase Cancel"="Annuler";
+
+//Warning Alert [ internet Connection ]
+"Warning Alert Title"="Attention";
+"Warning Alert SubTitle"="Pas de connexion Internet";
+"Warning Alert closeButtonTitle"="OK";
+
+//Error Alert [Data Not Found]
+"Error Alert Title"="Erreur";
+"Error Alert SubTitle"="Données non-Trouvé, Veuillez essayer de nouveau!";
+"Error Alert closeButtonTitle"="OK";
+
+//User Created Alert
+"UserCreated Alert Title"="Succès";
+"UserCreated Alert SubTitle"="Utilisateur crée avec succès";
+"UserCreated Alert closeButtonTitle"="Terminer";
+
+
+//User Updated Alert
+"UserUpdated Alert Title"="Succès";
+"UserUpdated Alert SubTitle"="Détails de l'utilisateur sont à jour";
+"UserUpdated Alert closeButtonTitle"="Terminer";
+
+//Social Alert [WhatsApp]
+"WhatsApp Alert Title"="WhatsApp n'est pas installé";
+"WhatsApp Alert SubTitle"="Votre mobile n'as pas de WhatsApp";
+"WhatsApp Alert closeButtonTitle"="OK";
+
+
+//Restuarant Detail Page
+////////////////////////////////////////////////////////////
+"Total Review"="Revisión Total:";
+"Detail_AVAILABLE AT"="DISPONIBLE EN";
+"Detail_TIMING"="Heure";
+
+//book table page
+////////////////////////////////////////////////////////////
+//Lable
+"Name"="Nom";
+"Mail Id"="Identifiant";
+"Phone Number"="Numero de mobile";
+"Date"="Date";
+"Time"="Heure";
+"Person"=" Nombre de personnes";
+"Txtcom"="Comentaires";
+
+//Alert [By mail || By Message ]
+"Book Alert Button1" = "par message";
+"Book Alert Button2" = "par E-mail";
+"Book Alert Title"="par Alerte";
+"Book Alert closeButtonTitle"="Annuler";
+
+//Message Alert
+"Message Alert Title"="Erreur";
+"Message Alert SubTitle"="Votre appareil ne supporte pas les SMS!";
+"Message Alert closeButtonTitle"="Annuler";
+
+//Textfield
+"Enter Your Name"="Votre Nom";
+"Enter Your Mail id"="Votre E-mail";
+"Phone no"="22374930000 ";
+
+//Open Date & Time Picker Title
+"DatePicker Title"="choisir une date";
+"TimePicker Title"="Choisissez Temps";
+"Picker Cancel" = "Annuler";
+"Picker Done" = "Terminer";
+
+//Review Page Dialog
+////////////////////////////////////////
+
+"TxtReview"="Ajouter votre Avis";
+"TxtComment"="Ajouter votre Avis";
+
+"Review_title"="Avis";
+"Review_yourexprience"="VOTRE EXPÉRIENCE";
+"Review_ok"="Ok";
+
+//Review Submit Alert
+"ReviewSubmit Alert Title"="Succès";
+"ReviewSubmit Alert SubTitle"="Soumis succès critique";
+"ReviewSubmit Alert closeButtonTitle"="Terminer";
